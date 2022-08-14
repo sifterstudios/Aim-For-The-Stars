@@ -33,6 +33,6 @@ What we ended up with was a 10-minute experience about a person waking up in a s
   
 
 Game Designer & Level Designer: Christian Fonneland
-Programming: Kenneth Gangstø
-VO & Writing: Sondre Mæland
-VO & Sound: Tormod Liseth
+- Programming: Kenneth Gangstø
+- VO & Writing: Sondre Mæland
+- VO, Sound, Music&Programming: Tormod Liseth
